@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CrossedComputing
+- 👀 I’m interested in programming, game hacking, and cyber security.
+- 🌱 I’m currently studying computer science at a university and teaching myself in my free time.
+- 📫 You can reach me at crossedcomputing@gmail.com
